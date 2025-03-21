@@ -13,7 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^1.2.7",
     "@mastra/core": "^0.6.3",
+    "ai": "^4.1.66",
     "convex": "^1.21.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
